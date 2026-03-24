@@ -1,0 +1,7 @@
+{
+    "database": "mongodb://localhost/fotoat",
+    "onlineDB": "mongodb+srv://kate_z:katezaytseva@cluster0.iqkkb7s.mongodb.net/?retryWrites=true&w=majority",
+    "PORT": 5000,
+    "adminLog": "kate",
+    "adminPass": "12309"
+}
